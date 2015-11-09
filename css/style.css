@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: #ddd;
+    padding: 1em 0;
+}
+
+header > img {
+    border-radius: 50%;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 0.5em;
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer li {
+    display: inline-block;
+    margin-right: 1em;
+}
+
+footer a {
+    color: firebrick;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+footer .copyright {
+    text-align: center;
+    font-size: 0.8em;
+}
